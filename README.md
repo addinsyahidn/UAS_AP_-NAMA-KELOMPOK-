@@ -21,5 +21,5 @@ Deskripsi :
     <p>Permainan pencarian posisi mine berbasis CLI</p>
   </li>
 </ul>
-Drive : <a href="tolong isi">Drive Dokumentasi</a> <br>
+Drive : https://drive.google.com/drive/folders/1yvhtJttRzhdqXDF1hWre6wGhGQT9jR08?usp=drive_link <br>
 Video : <a href="tolong isi">Video Presentasi</a>

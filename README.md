@@ -16,12 +16,15 @@ Deskripsi :
   </li>
   <li>
     Project3 (Sistem manajemen inventaris toko)
+    <p>Sistem manajemen inventaris toko yang membantu proses input barang, stok, dan mengecek stok</p>
   </li>
   <li>
     Project4 (minesweeper)
+    <p>Game Minesweeper berbasis CLI</p>
   </li>
   <li>
     Project5 (tebak negara)
+    <p>Game tebak negara dengan 173 nama negara yang ada berbasis CLI</p>
   </li>
 </ul>
 Drive : https://drive.google.com/drive/folders/1yvhtJttRzhdqXDF1hWre6wGhGQT9jR08?usp=drive_link <br>

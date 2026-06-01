@@ -15,15 +15,13 @@ Deskripsi :
     Project1
   </li>
   <li>
-    Project1
+    Project3 (Sistem manajemen inventaris toko)
   </li>
   <li>
     Project4 (minesweeper)
-    <p>Permainan pencarian posisi mine berbasis CLI</p>
   </li>
   <li>
     Project5 (tebak negara)
-    <p>Permainan tebak negara berbasis CLI</p>
   </li>
 </ul>
 Drive : https://drive.google.com/drive/folders/1yvhtJttRzhdqXDF1hWre6wGhGQT9jR08?usp=drive_link <br>

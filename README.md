@@ -1,4 +1,4 @@
-Nama Kelompok : Kelompok Anak Spesial Pak Dengklek <br>
+Nama Kelompok : Anak Spesial Pak Dengklek <br>
 Anggota :
 <ul>
   <li>251401002 - Naufal Rasyiq Dziqri Simanjuntak</li>

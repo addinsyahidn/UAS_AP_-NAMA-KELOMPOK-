@@ -69,7 +69,7 @@ int main() {
             skor++;
             cout << "Selamat! Anda benar." << endl;
         } else {
-            cout << "Maaf, jawaban Anda salah." << endl;
+            cout << "Maaf, jawaban Anda salah. Coba lagi." << endl;
             cout << "Jawaban yang benar: " << curr_negara << endl;
         }
 

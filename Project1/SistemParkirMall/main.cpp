@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <cctype>
-#include <limits>  // untuk numeric_limits
+#include <limits>  
 
 // ========== IMPLEMENTASI FUNGSI DARI CLASS ==========
 

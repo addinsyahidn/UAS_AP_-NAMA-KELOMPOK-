@@ -12,7 +12,7 @@ Deskripsi :
     Project1
   </li>
   <li>
-    Project1
+    Project2
   </li>
   <li>
     Project3 (Sistem manajemen inventaris toko)

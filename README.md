@@ -20,7 +20,7 @@ Deskripsi :
   </li>
   <li>
     Project4 (minesweeper)
-    <p>Game Minesweeper berbasis CLI</p>
+    <p>Permainan minesweeper klasik dengan interface berbasis CLI, dengan pewarnaan isi cell papan untuk membantu user</p>
   </li>
   <li>
     Project5 (tebak negara)

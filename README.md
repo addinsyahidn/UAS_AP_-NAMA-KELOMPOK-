@@ -9,7 +9,8 @@ Anggota :
 Deskripsi :
 <ul>
   <li>
-    Project1
+    Project1 (Sistem Parkir Mall Prienal)
+    <p>Sistem Parkir Mall yang membantu petugas parkir dalam mengelola kendaraan yang masuk dan keluar dari area parkir Mall Prienal secara otomatis dan efisien.</p>
   </li>
   <li>
     Project2 (Game Tebak Kata)

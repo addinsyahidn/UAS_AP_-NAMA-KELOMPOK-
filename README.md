@@ -12,7 +12,8 @@ Deskripsi :
     Project1
   </li>
   <li>
-    Project2
+    Project2 (Game Tebak Kata)
+    <p>Pemain memilih tingkat kesulitan, lalu sistem memilih kata acak dari beberapa kategori</p>
   </li>
   <li>
     Project3 (Sistem manajemen inventaris toko)

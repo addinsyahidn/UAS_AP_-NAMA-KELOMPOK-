@@ -30,4 +30,4 @@ Deskripsi :
   </li>
 </ul>
 Drive : https://drive.google.com/drive/folders/1yvhtJttRzhdqXDF1hWre6wGhGQT9jR08?usp=drive_link <br>
-Video : <a href="tolong isi">Video Presentasi</a>
+Video : https://youtu.be/45z3os9N2Ck
